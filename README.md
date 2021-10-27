@@ -14,7 +14,9 @@ A Continuous Delivery Agile Life Cycle together with a well-established customer
 ![TAM](images/TAM-SAM-Market.jpg)
 
 ## Lean Canvas
-[REF: online template](https://canvanizer.com/)
+[REF: online tool](https://canvanizer.com/)
+
+For a clear identification of measurements that lead to valuable insignts and Key Performance indication `KPI`, _Vanity metrics_ were avoided and was replaced with _Actionable metrics_
 
 ![lean_canvas](images/LeanCanvas_FarmacyFood.png)
 
