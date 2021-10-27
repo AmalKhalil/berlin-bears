@@ -19,7 +19,10 @@ Architectural Katas -  Team 1 BERLIN BEARS
 
 ## Life Cycle
  
-## Exp
+## Exploratory Life Cycle [DA]
+
+
+![ELC](images/ELC_DA.png)
 
 
 
