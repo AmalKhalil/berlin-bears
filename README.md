@@ -19,8 +19,11 @@ A Continuous Delivery Agile Life Cycle together with a well-established customer
 
 ![TAM](images/TAM-SAM-Market.jpg)
 
+## Personas
+[REF: utilized online tool](https://uxpressia.com/)
+![jane](images/Jane.png)
 ## Lean Canvas
-[REF: online tool](https://canvanizer.com/)
+[REF: utilized online tool](https://canvanizer.com/)
 
 For a clear identification of measurements that lead to valuable insignts and Key Performance indication `KPI`, _Vanity metrics_ were avoided and was replaced with _Actionable metrics_
 
