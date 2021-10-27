@@ -4,6 +4,12 @@ Architectural Katas -  Team 1 BERLIN BEARS
 
 # Business Analysis
 
+## Mission Statement
+
+## Product Assumptions
+
+## Market Analysis
+
 In order to assess **Market Opportunity**,primary and secondary research were conducted. Initial investigations suggest high profitability could be achieved by 
 1. Resegmenting the existing market
 2. Driving a successful model in another region. 
