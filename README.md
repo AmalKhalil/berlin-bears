@@ -4,6 +4,15 @@ Architectural Katas -  Team 1 BERLIN BEARS
 
 # Business Analysis
 
+In order to assess **Market Opportunity**,primary and secondary research were conducted. Initial investigations suggest high profitability could be achieved by 
+1. Resegmenting the existing market
+2. Driving a successful model in another region. 
+
+A Continuous Delivery Agile Life Cycle together with a well-established customer feedback loop will provide reasonable input to enhance initial market estimates. mainly: `TAM`, `SAM`, and `SOM`. [
+[image source](https://upload.wikimedia.org/wikipedia/en/f/fd/TAM-SAM-Market.jpg) ]
+
+![TAM](images/TAM-SAM-Market.jpg)
+
 ## Lean Canvas
 [REF: online template](https://canvanizer.com/)
 
