@@ -23,9 +23,73 @@
 
 ...
 
-- 
+### Security
+
+- Integrate with existing AWS Cognito solution - User Pool as It is part of original solution   
+- Manage user account for Dietitian and Medical Provider
+- Provide Authentication  & Authorisation 
+
+### Cutomer Profile
+
+- Configure Profile Attributes 
+
+- Configure Medical tests
+
+- Create and View Customer Profiles
+
+- Customer can set Profile Privacy
+
+  
+
+### eDietian
+
+- Send Advice
+- Monitor Customer
+
+### Notification
+
+- Emails
+- Newsletter Subscriptions
+
+### Analytics
+
+- Geographical trend analysis
+- Medical Profile analysis
+- Customers Segmant analysis
+
+### Reports
+
+- View analysis Result by Medical Profile, Marketing
+
+### Community
+
+- forum (localized, temporal)
+
+- Survey
+
+- Direct Messaging
+
+- in person / virtual events (localized, temporal)
+
+- classes (localized, temporal) and general wellness education (global, reference)
+
+- interactive media library (global, reference)
+
+  
 
 ## Sequence Diagrams
+
+### Onboarding
+
+![](diagrams/onboarding_flow.png)
+
+....
+
+### Analytics
+
+...
+
+### Medical Test
 
 ...
 
