@@ -13,11 +13,17 @@
 
 ## Data Model
 
+![data-model](diagrams/data_model.png)
+
 ...
 
 ## Components Diagram 
 
+![component_diagram](diagrams/component_diagram.png)
+
 ...
+
+- 
 
 ## Sequence Diagrams
 
