@@ -17,8 +17,9 @@
 
 > **A Freindly Note**
 
-At the beginning :grinning: :grinning:, we placed great hope on the outcome of our solution, given the listed expertise of every member who signed to join the team. However and despite all the efforts to push things forward, the team seems to be stuck in the first and second stages of Tuckman's model (forming & storming) :neutral_face: :raised_eyebrow: . Although we expected members to be self-motivated and to take initiative, we do understand that they had a busy schedule that prevented them from active participation :slightly_smiling_face: :wink: . We look forward to their valuable and great contribution ,in the future, if this humble work made it to the next stage. 
+At the beginning :grinning: :grinning:, we placed great hope on the outcome of our solution, given the listed expertise of every member who signed to join the team. However and despite all the efforts to push things forward, the team seemed to be stuck in the first and second stages of Tuckman's model (forming & storming) :neutral_face: :raised_eyebrow: . Although we expected members to be self-motivated and to take initiative, we do understand that they had a busy schedule that prevented them from active participation :slightly_smiling_face: :wink: . We look forward to their valuable and great contribution ,in the future, if this humble work made it to the next stage. 
 
+<br>
 <center>Ayham & Amal</center>
 
 
