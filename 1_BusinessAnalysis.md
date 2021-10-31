@@ -116,7 +116,7 @@ The plan is to be updated shortly based on received feedback. Here are some samp
 `Underdevelopment`. Include frequency of communication, way of communication ... etc
 
 ## Personas
-To understand the needs and without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md). `Check the next section`
+To understand the needs and without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](2_Requirements.md). `Check the next section`
 
 
 ![jane](images/Jane.png)
