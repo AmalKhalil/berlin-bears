@@ -13,12 +13,6 @@
 > We want to spread happiness, promote equal opportunities of approaching healthy nutrition, enhance social experience, and contribute to spreading awareness.
 
 
-
-
-
-
-
-
 ## Product Assumptions
 
 ## Market Analysis
@@ -33,15 +27,19 @@ A Continuous Delivery Agile Life Cycle together with a well-established customer
 ![TAM](images/TAM-SAM-Market.jpg)
 
 ## Personas
-[REF: utilized online tool](https://uxpressia.com/)
+Without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md)
+
+
 ![jane](images/Jane.png)
+[REF: utilized online tool](https://uxpressia.com/)
 ## Lean Canvas
-[REF: utilized online tool](https://canvanizer.com/)
+
 
 For a clear identification of measurements that lead to valuable insignts and Key Performance indication `KPI`, _Vanity metrics_ were avoided and was replaced with _Actionable metrics_
 
 ![lean_canvas](images/LeanCanvas_FarmacyFood.png)
 
+[REF: utilized online tool](https://canvanizer.com/)
 ## MVP
 
 Use customer feedback to develop/improve the product
