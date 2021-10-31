@@ -151,11 +151,14 @@ From a broader perspective and to drive better communication and understanding, 
     1. `Functional requirement`: reflecting the behavior of the product (listed above) 
     2. `Nonfunctional requirement`: the environmental conditions or qualities required for the product to be effective. (visual, usibility,maintainability, performance ...)
 
-> **Transition requirement**: training requirements
+> **Transition requirement**: 
+* training requirements
 
-> **Project requirement**: focus on project execution
+> **Project requirement**: 
+* focus on project execution
 
-> **Quality requirement**: conditions to validate the completion of deliverables/fulfillment of project requirements
+> **Quality requirement**: 
+* conditions to validate the completion of deliverables/fulfillment of project requirements
 
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
