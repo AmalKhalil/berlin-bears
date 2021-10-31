@@ -9,6 +9,7 @@
 
 # Functional Requirements 
 ## User Stories
+<br>
 1. As <ins>a busy university student</ins>, I want to order a healthy meal anytime, so that I focus on my study
 
 > `Main Feature`: **availability**. 
@@ -71,6 +72,32 @@
 - The system shall enable gathering data with customer consent and legal regulations
 - The system shall provide smart predictive analytics 
 - The system shall provide
+
+
+10. As <ins>a transactional customer</ins>, I want to receive concise, coherent, personalized and motivating information, so that I become an engaged customer.
+
+> `Main Feature`: **marketing and awareness**. 
+
+- The system shall store customer order and wishes.
+- The system shall analyze customers' wishes, based on past orders and generate suitable promotions that address their needs.
+
+
+11. As <ins>a medical provider</ins>, I want to view reports on various customers, so that I provide them with a professional advice with regard to their health and nutrition.
+
+> `Main Feature`: **validation and follow up**. 
+
+- The system shall enable health professionals to view reports on customers and their nutrition habits, choices and meal ingredients
+- The system shall provide a mechanism at which health professionals can generate and write feedback
+- The system shall enable users to view professional reports
+
+12. As <ins>a dietitian</ins>, I want to send personalized advice to customers given their health conditions and various requirements, so that I satisfy their expectations and meet their goals.
+
+> `Main Feature`: **professional advice**. 
+
+- The system shall enable dietitians to review current customer nutritional habits
+- The system shall enable dietitians to provide feedback and suugestions.
+
+## Actors
 
 # Non-Functional Requirements 
 
