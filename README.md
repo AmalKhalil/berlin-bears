@@ -1,7 +1,7 @@
 [img source](https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg)
 <h1> <img src="images/Berlin.jpg"
   width="800"
-  height="128"
+  height="256"
   style="float:right;">
     Architectural Katas
 </h1>
