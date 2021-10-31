@@ -1,10 +1,71 @@
-# Berlin Bears
-Architectural Katas -  Team 1 BERLIN BEARS
+[img source](https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg)
+<h1> <img src="images/Berlin.jpg"
+  width="800"
+  height="256"
+  style="float:left;">
+</h1>
+<center><h1>Architectural Katas: Farmacy Family... Team 1</h1></center>
 
-- [Team](Team.md)
-- [Business Analysis](1_BusinessAnalysis.md)
-- [Functional Requirements](2_Requirements.md)
-- [Solution](Solution.md) 
+#  **BERLIN** BEARS
+# Introduction
+Farmacy Family's goal is to extend the work presented in Architectural Katas 2020 for **`Farmacy Foods system`** by [Group ArchColider](https://github.com/ldynia/archcolider) where now tighter engagement with customer is a primary objective. 
+
+The solution story can be navigated through the following links. `an overview is presented in Repository Structure section below`
+
+- [1_Business Analysis](1_BusinessAnalysis.md)
+- [2_Functional Requirements](2_Requirements.md)
+- [3_Solution](3_Solution.md) 
+- [4_Team](4_Team.md)
+
+We hope you enjoyed navigating and reading the project as much as we enjoyed creating it.<br>
+<center>
+    Berlin Bears
+</center>
+<br>
+
+> `Fun Fact`: Team name was automatically chosen.
+
+
+# Next Steps
+
+- Enhancing customer experience (sample user interface)
+- Elaborating on the requirements (analysis and diagrams)
+- Establishing measures to evaluate current architecture.
+- Integrating AI-based inference engine
+> Bonus and Optional: Scaling up the business (from startup to IPO)
+# Repository Structure
+
+```
+.
+│   
+│   1_BusinessAnalysis.md       * Business Canvas and Market Analysis
+│   2_Requirements.md           * Listing Actors and use cases
+│   3_Solution.md               * Initial increment of the Architectural Solution 
+│   4_Team.md                   * list of team members and their contriubtion
+│   README.md                   * This file
+│
+├───0_other_controbutions       * Early contribution from a team member
+│       business_canvas.png
+│       Farmacy Family Requirements.pdf
+│       readme.md
+│
+├───diagrams                    * Architectural diagrams 
+│       analytics.png
+│       component_diagram.png
+│       customer_segmentation.png
+│       data_model.png
+│       onboarding_flow.png
+│
+└───images                      * supporting images
+        Berlin.jpg
+        ELC_DA.png
+        Jane.png
+        LeanCanvas_FarmacyFood.png
+        pdca.png
+        TAM-SAM-Market.jpg
+
+
+```
 
 # References
 - Fundamentals of Software Architecture. [link](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
@@ -21,4 +82,7 @@ Architectural Katas -  Team 1 BERLIN BEARS
 
 - The Business Model Book [link](https://www.amazon.com/Business-Model-Book-Design-business/dp/1292135700)
 
-  
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+##   [Next -->](1_BusinessAnalysis.md)  
