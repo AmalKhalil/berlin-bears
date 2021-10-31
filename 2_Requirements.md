@@ -157,7 +157,10 @@ From a broader perspective and to drive better communication and understanding, 
 
 > **Quality requirement**: conditions to validate the completion of deliverables/fulfillment of project requirements
 
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+##  [<-- Back](1_BusinessAnalysis.md) | [Home](README.md) | [Next -->](3_Solution.md)
 
 
 
