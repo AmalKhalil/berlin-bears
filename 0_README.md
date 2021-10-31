@@ -3,11 +3,12 @@
   width="800"
   height="256"
   style="float:right;">
-    Architectural Katas
+    <b style="color:red">Architectural</b> Katas: 
+    <h2> Team 1: <b style="color:red">BERLIN</b> BEARS </h2>
 </h1>
 
 
-## **`Team 1`** : **BERLIN BEARS**
+#
 
 <br>
 
