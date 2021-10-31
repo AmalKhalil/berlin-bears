@@ -9,9 +9,9 @@
 - We work hardly on converting transactional customers to engaged customers
 - We generate analytical data from medical information to demonstrate the benefits of Farmacy Foods
 
-```
-We want to spread happiness, promote equal opportunities of approaching healthy nutrition, enhance social experience, and contribute to spreading awareness.
-```
+
+> We want to spread happiness, promote equal opportunities of approaching healthy nutrition, enhance social experience, and contribute to spreading awareness.
+
 
 
 
