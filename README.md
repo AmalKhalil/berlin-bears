@@ -10,10 +10,18 @@
 # Introduction
 Farmacy Family's goal is to extend the work presented in Architectural Katas 2020 for **`Farmacy Foods system`** by [Group ArchColider](https://github.com/ldynia/archcolider) where now tighter engagement with customer is a primary objective. 
 
+The solution story can be navigated through the following links. `an overview is presented in Repository Structure section below`
+
 - [1_Business Analysis](1_BusinessAnalysis.md)
 - [2_Functional Requirements](2_Requirements.md)
 - [3_Solution](3_Solution.md) 
 - [4_Team](4_Team.md)
+
+We hope you enjoyed navigating and reading the project as much as we enjoyed creating it.
+                                  --yours:
+Berlin Bears
+> `Fun Fact`: Team name was automatically chosen.
+
 
 # Next Steps
 
@@ -30,19 +38,19 @@ Farmacy Family's goal is to extend the work presented in Architectural Katas 202
 │   4_Team.md                   * list of team members and their contriubtion
 │   README.md                   * This file
 │
-├───0_other_controbutions
+├───0_other_controbutions       * Early contribution from a team member
 │       business_canvas.png
 │       Farmacy Family Requirements.pdf
 │       readme.md
 │
-├───diagrams
+├───diagrams                    * Architectural diagrams 
 │       analytics.png
 │       component_diagram.png
 │       customer_segmentation.png
 │       data_model.png
 │       onboarding_flow.png
 │
-└───images
+└───images                      * supporting images
         Berlin.jpg
         ELC_DA.png
         Jane.png
