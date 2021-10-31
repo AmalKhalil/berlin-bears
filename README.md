@@ -3,8 +3,8 @@
   width="800"
   height="256"
   style="float:right;">
-    <span style="color:red"><strong>Architectural<str/ong></span> Katas: 
-    <h2> Team 1: <span style="color:red"><strong> BERLIN</strong></span> BEARS </h2>
+    <span style="color:red"><strong>Architectural<str/ong></span> Katas: <br>    
+    Team 1: <span style="color:red"><strong> BERLIN</strong></span> BEARS
 </h1>
 
 
