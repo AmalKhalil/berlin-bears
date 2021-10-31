@@ -36,6 +36,13 @@ Generally speaking, the engagement model should provide support to the following
 11. Medical Provider
 12. Dietitian
 ## User Stories
+
+From an Agile Perspective the `A User Story` should be:
+``` 
+(1) Independent (2) Negotiable (3) Valuable
+
+(4) Estimable (5) Small (6) Testable. 
+```
 <br>
 1. As <ins>a busy university student</ins>, I want to order a healthy meal anytime, so that I focus on my study
 
@@ -98,7 +105,7 @@ Generally speaking, the engagement model should provide support to the following
 
 - The system shall enable gathering data with customer consent and legal regulations
 - The system shall provide smart predictive analytics 
-- The system shall provide
+- The system shall provide useful reports on history data
 
 
 10. As <ins>a transactional customer</ins>, I want to receive concise, coherent, personalized and motivating information, so that I become an engaged customer.
@@ -125,8 +132,33 @@ Generally speaking, the engagement model should provide support to the following
 - The system shall enable dietitians to provide feedback and suugestions.
 
 
+# Requirements in the Broad Sense 
 
-# Non-Functional Requirements 
+From a broader perspective and to drive better communication and understanding, requirements can be divided into 6 categories. A general overview is provided at this iteration and further analysis is addressed in subsequent increments. More details can be found in PMI Guide to Business Analysis
+
+> **Business requirement**:
+- High-level needs of the organization
+- Measurable represeentations of goals 
+
+> **Stakeholder requirement**:
+- Needs and desires
+- Managed through Stakeholder management/engagement plan as well as communication plan
+
+> **Solution requirement**:
+- Features, functions and characteristics of the product
+- Should meet Stakeholder and Business requirements
+- Divided into:
+    1. `Functional requirement`: reflecting the behavior of the product (listed above) 
+    2. `Nonfunctional requirement`: the environmental conditions or qualities required for the product to be effective. (visual, usibility,maintainability, performance ...)
+
+> **Transition requirement**: training requirements
+
+> **Project requirement**: focus on project execution
+
+> **Quality requirement**: conditions to validate the completion of deliverables/fulfillment of project requirements
+
+
+
 
 
 
