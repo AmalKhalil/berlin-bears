@@ -1,5 +1,4 @@
-
-# Function Requirement 
+# Requirements Elicitation
 
 ## Solution Consideration Factors
 
@@ -8,6 +7,7 @@
 - `Complexity`: ...
 - `Ambiguity`: ...
 
+# Functional Requirements 
 ## User Stories
 1. As <ins>a busy university student</ins>, I want to order a healthy meal anytime, so that I focus on my study
 
@@ -72,7 +72,7 @@
 - The system shall provide smart predictive analytics 
 - The system shall provide
 
-
+# Non-Functional Requirements 
 
 
 
