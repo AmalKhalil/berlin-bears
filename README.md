@@ -17,9 +17,12 @@ The solution story can be navigated through the following links. `an overview is
 - [3_Solution](3_Solution.md) 
 - [4_Team](4_Team.md)
 
-We hope you enjoyed navigating and reading the project as much as we enjoyed creating it.
-                                  --yours:
-Berlin Bears
+We hope you enjoyed navigating and reading the project as much as we enjoyed creating it.<br>
+<center>
+    Berlin Bears
+</center>
+<br>
+
 > `Fun Fact`: Team name was automatically chosen.
 
 
