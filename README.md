@@ -6,11 +6,11 @@
     <b style="color:red;">Architectural<str/ong></b> Katas:
 </h1>
 
-<span style="color: red;"><h2>BERLIN</h2></span>
-# Team 1:**BERLIN** `#f03c15` BEARS
-#
+# Team 1: **BERLIN** BEARS
+# Introduction
 
-<br>
+dd
+# Structure
 
 - [Team](Team.md)
 - [Business Analysis](1_BusinessAnalysis.md)
