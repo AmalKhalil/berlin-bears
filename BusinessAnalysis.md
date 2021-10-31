@@ -35,13 +35,16 @@ Without loss of generality, the following represent a sample usage of our system
 ## Lean Canvas
 
 In order to visualize and understand various forces that drive our system, a `Business Model Canvas` was established. 
+
 ![andray_BMC](./0_other_controbutions/business_canvas.png)
+
+Motivated by the above diagram, and with the goal of understanding customers' pain and engaging their wishes, an initial lean version was constructed. [_`it is to be continuously enhanced and updated based on feedback recieved`_ ]
 
 For a clear identification of measurements that lead to valuable insignts and Key Performance indication `KPI`, _Vanity metrics_ were avoided and was replaced with _Actionable metrics_
 
 ![lean_canvas](images/LeanCanvas_FarmacyFood.png)
 
-[REF: utilized online tool](https://canvanizer.com/)
+[REF: online plotting tool](https://canvanizer.com/)
 ## MVP
 
 Use customer feedback to develop/improve the product
