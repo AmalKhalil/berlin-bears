@@ -1,6 +1,13 @@
+# Requirements Elicitation
 
-# Function Requirement 
+## Solution Consideration Factors
 
+- `Volatility`: **Level 2/5**. A given user story will be minimally changing. However new stories may be added.
+- `Uncertainty`: **Level 4/5**. Various risk factors need to be considered. (more elaboration is in the `Solution Section`). We expect a considerable reduction after some iterations.
+- `Complexity: **Level 4/5**. The system is integrated with another solution. Changes in the original solution may be reflected on the proposed extension
+- `Ambiguity`: **Level 1/5**. Requirements can be easily understood and improved based on closed feedback. 
+
+# Functional Requirements 
 ## User Stories
 1. As <ins>a busy university student</ins>, I want to order a healthy meal anytime, so that I focus on my study
 
@@ -65,7 +72,7 @@
 - The system shall provide smart predictive analytics 
 - The system shall provide
 
-
+# Non-Functional Requirements 
 
 
 

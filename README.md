@@ -2,8 +2,8 @@
 Architectural Katas -  Team 1 BERLIN BEARS
 
 - [Team](Team.md)
-- [Business Analysis](BusinessAnalysis.md)
-- [Functional Requirements](FunctionalRequirements.md)
+- [Business Analysis](1_BusinessAnalysis.md)
+- [Functional Requirements](2_Requirements.md)
 - [Solution](Solution.md) 
 
 # References
