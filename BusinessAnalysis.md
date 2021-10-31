@@ -1,6 +1,6 @@
 # Business Analysis
 
-## Mission Statement
+## Mission and Vision Statement
 
 
 > Farmacy Family is an enhancement of the existing [Farmacy Foods](https://www.farmacyfood.com/mission) system and was created with the spirit of making healthy food widely accessible and affordable by guiding a tighter engagement with customers and offering an AI-Based solution that drives personalized nutrition choices and recommendations.
@@ -9,11 +9,12 @@
 - We work hardly on converting transactional customers to engaged customers
 - We generate analytical data from medical information to demonstrate the benefits of Farmacy Foods
 
-
-## Vision Statement
+```
+We want to spread happiness, promote equal opportunities of approaching healthy nutrition, enhance social experience, and contribute to spreading awareness.
 ```
 
-```
+
+
 
 
 
