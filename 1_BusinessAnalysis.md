@@ -122,4 +122,7 @@ To understand the needs and without loss of generality, the following represent 
 ![jane](images/Jane.png)
 [REF: utilized online tool](https://uxpressia.com/)
 
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+##  [<-- Back](README.md) | [Home](README.md) | [Next -->](2_Requirements.md)

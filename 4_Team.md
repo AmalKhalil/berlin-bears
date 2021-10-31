@@ -23,5 +23,8 @@ At the beginning :grinning: :grinning:, we placed great hope on the outcome of o
 <center>Ayham & Amal</center>
 
 
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+##  [<-- Back](3_Solution.md) | [Home](README.md) 
 

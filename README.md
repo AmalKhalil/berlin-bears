@@ -82,4 +82,7 @@ We hope you enjoyed navigating and reading the project as much as we enjoyed cre
 
 - The Business Model Book [link](https://www.amazon.com/Business-Model-Book-Design-business/dp/1292135700)
 
-  
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+##   [Next -->](1_BusinessAnalysis.md)  
