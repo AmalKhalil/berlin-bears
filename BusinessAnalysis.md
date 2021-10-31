@@ -90,32 +90,42 @@ Details on the below processes are to be updated as the project progresses.
 1. Ensuring Production Rediness
 2. Deploying the Solution 
 ```
-
-# Stakeholder and Communication Management
-
-## Personas
-Without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md)
-
-
-![jane](images/Jane.png)
-[REF: utilized online tool](https://uxpressia.com/)
 ## Solution Consideration Factors
+
 - `Volatility`: ....
 - `Uncertainty`: ...
 - `Complexity`: ...
 - `Ambiguity`: ...
+# Stakeholder and Communication Management
+## Stakeholder Analysis
 
-## Stakeholder Management
+Various stakeholders are to be listed. Their `Power`, `Interest` and `Influence` is then to be analyzed to prepare a suitable engagement plan. The final objective is to maintain supportive and `less resistive` stakeholders
 
-...
-### Stakeholder Analysis
-...
 ### Stakeholder Engagement Plan
-...
+<br>
+
+The plan is to be updated shortly based on received feedback. Here are some samples:
+
+> High power, high interested stakeholder --> `Manage Closely`.
+- Fully engage in the development.
+- Exert the greatest efforts to satisfy their requirements
+
+> High power, less interested stakeholder --> `Keep Satisfied`
+
+> Low power, interested stakeholder --> `Keep Informed`
+
+> Low power, less interested stakeholder --> `Monitor`
 
 ### Communication Plan
-...
+<br>
+
+`Underdevelopment`. Include frequency of communication, way of communication ... etc
+
+## Personas
+To understand the needs and without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md). `Check the next section`
 
 
+![jane](images/Jane.png)
+[REF: utilized online tool](https://uxpressia.com/)
 
 
