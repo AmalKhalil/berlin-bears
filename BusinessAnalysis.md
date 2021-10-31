@@ -57,6 +57,8 @@ To establish sound bonds with various stakeholders, to encourage feedback and to
 
 ## Solution Inception, Construction, and Transition
 
+Details on the below processes are to be updated as the project progresses.
+
 ### The Inception Phase
 <br>
 
@@ -67,31 +69,27 @@ To establish sound bonds with various stakeholders, to encourage feedback and to
 2. Identifying Architecture Strategy
 3. Planning the Release
 4. Developing a Test Strategy
-
 ```
 ### The Construction Phase
-```
-Incrementally build a consumable solution
-```
-- ## Prove Architecute Early
-...
+<br>
 
-- ## Address Changing Stakeholder Needs
-...
-- ## Improve Quality
-...
-- ## Accelerate Value Delivery
-...
+> The goal is to incrementally build a consumable solution and includ the following:
+```
+1. Proving Architecute Early
+2. Addressing Changing Stakeholder Needs
+3. Improving Quality
+4. Accelerating Value Delivery
+```
+
 ### The Transition Phase
+<br>
+
+> The final goal is to release the solution into production and include:
+
 ```
-Release the solution into production
+1. Ensuring Production Rediness
+2. Deploying the Solution 
 ```
-- ## Ensure Production Rediness
-...
-
-- ## Deploy the Solution
-
-
 
 # Stakeholder and Communication Management
 
