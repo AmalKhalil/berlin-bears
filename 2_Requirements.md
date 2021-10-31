@@ -11,13 +11,17 @@
 ## List of Actors
 
 Generally speaking, the engagement model should provide support to the following categories:
-> (1) Clients 
-> (2) Cli
-> (3) Cli
-> (4) Cli
 
+> **`Clients`**: with a goal of building a community, education and increased awareness
 
+> **`Clinics`**: with a goal of establishing a baseline tests for clients, gathering & analyzing results, reporting on changes and attract investors.
 
+> **`Dieticians`**: with a selective access to medical information about the customer, the goal is supporting one-on-one advice for engaged customers.  
+
+> **`Family Foods`**: with the objective of knowing which Transactional Customers are potential for the onboarding process. 
+
+<br>
+<ins> Examples are listed below </ins>
 
 1. University Student
 2. Working Mother
