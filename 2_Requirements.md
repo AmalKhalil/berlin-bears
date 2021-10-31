@@ -1,6 +1,13 @@
 
 # Function Requirement 
 
+## Solution Consideration Factors
+
+- `Volatility`: A given user story 
+- `Uncertainty`: ...
+- `Complexity`: ...
+- `Ambiguity`: ...
+
 ## User Stories
 1. As <ins>a busy university student</ins>, I want to order a healthy meal anytime, so that I focus on my study
 
