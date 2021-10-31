@@ -4,10 +4,33 @@
 
 - `Volatility`: **Level 2/5**. A given user story will be minimally changing. However new stories may be added.
 - `Uncertainty`: **Level 4/5**. Various risk factors need to be considered. (more elaboration is in the `Solution Section`). We expect a considerable reduction after some iterations.
-- `Complexity: **Level 4/5**. The system is integrated with another solution. Changes in the original solution may be reflected on the proposed extension
+- `Complexity`: **Level 4/5**. The system is integrated with another solution. Changes in the original solution may be reflected on the proposed extension
 - `Ambiguity`: **Level 1/5**. Requirements can be easily understood and improved based on closed feedback. 
 
 # Functional Requirements 
+## List of Actors
+
+Generally speaking, the engagement model should provide support to the following categories:
+> (1) Clients 
+> (2) Cli
+> (3) Cli
+> (4) Cli
+
+
+
+
+1. University Student
+2. Working Mother
+3. Fitness Instructor
+4. Local Elementary Classroom Teacher
+5. Social media influencer
+6. Busy Worker
+7. User with special dietary requirements
+8. Healthcare Professional
+9. Investor
+10. Transactional Customer
+11. Medical Provider
+12. Dietitian
 ## User Stories
 <br>
 1. As <ins>a busy university student</ins>, I want to order a healthy meal anytime, so that I focus on my study
@@ -41,7 +64,7 @@
 
 5. As <ins>a social media influencer</ins>, I want to take photo of the healthy meal, so that I can post it on my social media channel
 
-> `Main Feature`: photo capture
+> `Main Feature`: **photo capture**
 
 - The system shall enable taking/storing/uploading images
 
@@ -60,7 +83,7 @@
 
 8. As <ins>a healthcare professional</ins>, I want to be able to share feedback easily and provide system rating, so that deliver high quality recommendations to my patients 
 
-> `Main Feature`: System evaluation
+> `Main Feature`: **System evaluation**
 
 - The system shall easy rating mechanism
 - The system shall provide accessible forms for feedback
@@ -97,7 +120,7 @@
 - The system shall enable dietitians to review current customer nutritional habits
 - The system shall enable dietitians to provide feedback and suugestions.
 
-## Actors
+
 
 # Non-Functional Requirements 
 
