@@ -26,19 +26,14 @@ A Continuous Delivery Agile Life Cycle together with a well-established customer
 
 ![TAM](images/TAM-SAM-Market.jpg)
 
-## Personas
-Without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md)
 
-
-![jane](images/Jane.png)
-[REF: utilized online tool](https://uxpressia.com/)
 ## Lean Canvas
 
 In order to visualize and understand various forces that drive our system, a `Business Model Canvas` was established. 
 
 ![andray_BMC](./0_other_controbutions/business_canvas.png)
 
-Motivated by the above diagram, and with the goal of understanding customers' pain and engaging their wishes, an initial lean version was constructed. [_`it is to be continuously enhanced and updated based on feedback recieved`_ ]
+Motivated by the above diagram, and with the goal of understanding customers' pain and engaging their wishes, an initial lean version was constructed. it is to be continuously enhanced and updated based on feedback recieved. [ _`See MVP below`_ ]
 
 For a clear identification of measurements that lead to valuable insignts and Key Performance indication `KPI`, _Vanity metrics_ were avoided and was replaced with _Actionable metrics_
 
@@ -51,6 +46,12 @@ Use customer feedback to develop/improve the product
 
 ![pdca](images/pdca.png)
 
+## Personas
+Without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md)
+
+
+![jane](images/Jane.png)
+[REF: utilized online tool](https://uxpressia.com/)
 ## Solution Consideration Factors
 - `Volatility`: ....
 - `Uncertainty`: ...
