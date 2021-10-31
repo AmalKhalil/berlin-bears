@@ -2,26 +2,57 @@
 <h1> <img src="images/Berlin.jpg"
   width="800"
   height="256"
-  style="float:right;">
-    <b style="color:red;">Architectural<str/ong></b> Katas:
+  style="float:left;">
 </h1>
+<center><h1>Architectural Katas: Farmacy Family... Team 1</h1></center>
 
-# Team 1: **BERLIN** BEARS
+#  **BERLIN** BEARS
 # Introduction
+Farmacy Family's goal is to extend the work presented in Architectural Katas 2020 for **`Farmacy Foods system`** by [Group ArchColider](https://github.com/ldynia/archcolider) where now tighter engagement with customer is a primary objective. 
 
-dd
-# Structure
-
-- [Team](Team.md)
-- [Business Analysis](1_BusinessAnalysis.md)
-- [Functional Requirements](2_Requirements.md)
-- [Solution](3_Solution.md) 
-
+- [1_Business Analysis](1_BusinessAnalysis.md)
+- [2_Functional Requirements](2_Requirements.md)
+- [3_Solution](3_Solution.md) 
+- [4_Team](4_Team.md)
 
 # Next Steps
 
 - Enhancing customer experience (sample UI)
 - Establishing measures to evaluate current arch.
+# Repository Structure
+
+```
+.
+│   
+│   1_BusinessAnalysis.md       * Business Canvas and Market Analysis
+│   2_Requirements.md           * Listing Actors and use cases
+│   3_Solution.md               * Initial increment of the Architectural Solution 
+│   4_Team.md                   * list of team members and their contriubtion
+│   README.md                   * This file
+│
+├───0_other_controbutions
+│       business_canvas.png
+│       Farmacy Family Requirements.pdf
+│       readme.md
+│
+├───diagrams
+│       analytics.png
+│       component_diagram.png
+│       customer_segmentation.png
+│       data_model.png
+│       onboarding_flow.png
+│
+└───images
+        Berlin.jpg
+        ELC_DA.png
+        Jane.png
+        LeanCanvas_FarmacyFood.png
+        pdca.png
+        TAM-SAM-Market.jpg
+
+
+```
+
 # References
 - Fundamentals of Software Architecture. [link](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 
