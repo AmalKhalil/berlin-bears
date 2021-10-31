@@ -1,4 +1,4 @@
-# Business Analysis
+# Business Analysis and Solution Overview
 
 ## Mission and Vision Statement
 
@@ -13,7 +13,7 @@
 > We want to spread happiness, promote equal opportunities of approaching healthy nutrition, enhance social experience, and contribute to spreading awareness.
 
 
-## Product Assumptions
+## Product and Maret Assumptions
 
 ## Market Analysis
 
@@ -46,6 +46,16 @@ Use customer feedback to develop/improve the product
 
 ![pdca](images/pdca.png)
 
+# Development Process in a Nutshell
+
+## Exploratory Life Cycle [DA]
+
+To establish sound bonds with various stakeholders, to encourage feedback and to understand customer needs, an `Exploratory Life Cycle` was constructed. Once completed, a `Continuous Delivery Lean Life Cycle` is to be followed for deploying the final solution.
+
+![ELC](images/ELC_DA.png)
+
+
+
 ## Personas
 Without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md)
 
@@ -68,16 +78,8 @@ Without loss of generality, the following represent a sample usage of our system
 
 ### Communication Plan
 ...
-## User Stories
-...
-.....
-
-## Life Cycle
-
-## Exploratory Life Cycle [DA]
 
 
-![ELC](images/ELC_DA.png)
 
 
 
