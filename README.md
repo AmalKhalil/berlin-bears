@@ -1,9 +1,15 @@
-# Architectural Katas
- 
- > **`Team 1`** : **BERLIN BEARS**
+[img source](https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg)
+<h1> <img src="images/Berlin.jpg"
+  width="800"
+  height="128"
+  style="float:right;">
+    Architectural Katas
+</h1>
 
-[image source](https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg)
- <img src="images/Berlin.jpg" alt="drawing" width="300" height="70"/>
+
+## **`Team 1`** : **BERLIN BEARS**
+
+<br>
 
 - [Team](Team.md)
 - [Business Analysis](1_BusinessAnalysis.md)
