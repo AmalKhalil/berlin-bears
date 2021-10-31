@@ -19,7 +19,7 @@ The below constraints drives solution trade-off decisions:
 1. AWS is the platform for deployment as Farmacy Food Ordering System is deployed there.
 2. Reduce the opertional cost by reusing existing services when possible. 
 3. Budget is  limited
-4. Number of customer is hundreds
+4. Number of customer is Hundreds, separated by distinct geographic zones.
 
 
 
@@ -91,6 +91,11 @@ This component will be build using a server less application from AWS market pla
 
 This component will be a regular cron job to calculated customer segmantion using profile attributes like geographical zone, diet, income and behaviour.
 
+This component will help Farmacy Family to know:
+
+- Which Transactional Customers are not part of Farmacy Family Engaged Customer) to start the onboarding process for those customers
+- Which transactional customers are Engaged Customers
+
 ### Community
 
 This component will be build using an open source tools in order to provide forum, classes, direct messaging and media library.
@@ -99,19 +104,25 @@ An additional investigation is needed in order to select best applications consi
 
 ### Analytics
 
-The analytics solution will support deifferent kind of analysis including Geographical trend analysis, Medical Report analysis and Customers Segmant analysis.
+The analytics solution will support deifferent kind of analysis including but not limited to:
+
+-  Geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges **(**an additional integration point TO Farmacy Foods**)**
+- Distribution and potential food waste analysis.
+- Medical Report analysis and Customers Segmant analysis.
 
 More details in Analytics Sequence Diagram.
 
 ### Reports
 
-- View analysis Result by Medical Profile, Marketing
+This component will provide below reports:
 
-This component will support reports for clicncs, medical provider and marketing team. It will be using tableau.
+- Analytic Result to third party providers (clinics, doctors, etc) for example, regional dietary observations). 
+- Medical Reports analysis Result to Medical Provider and investors.
+- Distribution and potential food waste analysis result to Farmacy Foods.
 
-This component is already part of Farmacy Farm ordering system and will be reused in this solution. More details is available in [archcolider documentation](https://github.com/ldynia/archcolider/blob/master/3.ViewsAndPerspectives/infrastructure/Infrastructure-services-and-virtual-hardware.md#amazon-simple-notification-service-sns)
+It will be using tableau which is already part of Farmacy Farm ordering system and will be reused in this solution. More details is available in [archcolider documentation](https://github.com/ldynia/archcolider/blob/master/3.ViewsAndPerspectives/infrastructure/Infrastructure-services-and-virtual-hardware.md#amazon-simple-notification-service-sns)
 
-### 
+
 
 ## Sequence Diagrams
 
