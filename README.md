@@ -3,11 +3,11 @@
   width="800"
   height="256"
   style="float:right;">
-    <span style="color:red">Architectural<str/ong></span> Katas: <br>    
-    Team 1: <span style="color:red"> BERLIN</span> BEARS
+    <b style="color:red;">Architectural<str/ong></b> Katas:
 </h1>
 
-
+<span style="color: red;"><h2>BERLIN</h2></span>
+# Team 1:**BERLIN** `#f03c15` BEARS
 #
 
 <br>
