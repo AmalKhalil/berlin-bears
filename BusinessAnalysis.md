@@ -46,7 +46,7 @@ Use customer feedback to develop/improve the product
 
 ![pdca](images/pdca.png)
 
-# Development Process in a Nutshell
+# The Development Process in a Nutshell
 
 ## Exploratory Life Cycle [DA]
 
@@ -55,6 +55,45 @@ To establish sound bonds with various stakeholders, to encourage feedback and to
 ![ELC](images/ELC_DA.png)
 
 
+## Solution Inception, Construction, and Transition
+
+### The Inception Phase
+<br>
+
+>The goal is to get things running in the right direction. The process include:
+
+```
+1. Exploring Scoep
+2. Identifying Architecture Strategy
+3. Planning the Release
+4. Developing a Test Strategy
+
+```
+### The Construction Phase
+```
+Incrementally build a consumable solution
+```
+- ## Prove Architecute Early
+...
+
+- ## Address Changing Stakeholder Needs
+...
+- ## Improve Quality
+...
+- ## Accelerate Value Delivery
+...
+### The Transition Phase
+```
+Release the solution into production
+```
+- ## Ensure Production Rediness
+...
+
+- ## Deploy the Solution
+
+
+
+# Stakeholder and Communication Management
 
 ## Personas
 Without loss of generality, the following represent a sample usage of our system. User stories are listed under [Functional Requirements](FunctionalRequirements.md)
@@ -81,40 +120,4 @@ Without loss of generality, the following represent a sample usage of our system
 
 
 
-
-
-# Solution Inception
-```
-Get things running in the right direction
-```
-
-## Explore Scoep
-...
-- ## Identify Architecture Strategy
-...
-- ## Plan the Release
-...
-- ## Develop Test Strategy
-...
-# Solution Construction
-```
-Incrementally build a consumable solution
-```
-- ## Prove Architecute Early
-...
-
-- ## Address Changing Stakeholder Needs
-...
-- ## Improve Quality
-...
-- ## Accelerate Value Delivery
-...
-# Solution Transition
-```
-Release the solution into production
-```
-- ## Ensure Production Rediness
-...
-
-- ## Deploy the Solution
 
