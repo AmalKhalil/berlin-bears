@@ -1,11 +1,20 @@
-# Berlin Bears
-Architectural Katas -  Team 1 BERLIN BEARS
+# Architectural Katas
+ 
+ > **`Team 1`** : **BERLIN BEARS**
+
+[image source](https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg)
+ <img src="images/Berlin.jpg" alt="drawing" width="300" height="70"/>
 
 - [Team](Team.md)
 - [Business Analysis](1_BusinessAnalysis.md)
 - [Functional Requirements](2_Requirements.md)
-- [Solution](Solution.md) 
+- [Solution](3_Solution.md) 
 
+
+# Next Steps
+
+- Enhancing customer experience (sample UI)
+- Establishing measures to evaluate current arch.
 # References
 - Fundamentals of Software Architecture. [link](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 
