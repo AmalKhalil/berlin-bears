@@ -17,7 +17,7 @@
 
 ## Market Analysis
 
-In order to assess **Market Opportunity**,primary and secondary research were conducted. Initial investigations suggest high profitability could be achieved by 
+In order to assess **Market Opportunity**, primary and secondary research were conducted. Initial investigations suggest high profitability could be achieved by 
 1. Resegmenting the existing market
 2. Driving a successful model in another region. 
 
@@ -34,6 +34,8 @@ Without loss of generality, the following represent a sample usage of our system
 [REF: utilized online tool](https://uxpressia.com/)
 ## Lean Canvas
 
+In order to visualize and understand various forces that drive our system, a `Business Model Canvas` was established. 
+![andray_BMC](0_other_controbutions\business_canvas.png)
 
 For a clear identification of measurements that lead to valuable insignts and Key Performance indication `KPI`, _Vanity metrics_ were avoided and was replaced with _Actionable metrics_
 
