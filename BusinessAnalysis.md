@@ -101,7 +101,7 @@ Details on the below processes are to be updated as the project progresses.
 
 Various stakeholders are to be listed. Their `Power`, `Interest` and `Influence` is then to be analyzed to prepare a suitable engagement plan. The final objective is to maintain supportive and `less resistive` stakeholders
 
-### Stakeholder Engagement Plan
+## Stakeholder Engagement Plan
 <br>
 
 The plan is to be updated shortly based on received feedback. Here are some samples:
@@ -116,7 +116,7 @@ The plan is to be updated shortly based on received feedback. Here are some samp
 
 > Low power, less interested stakeholder --> `Monitor`
 
-### Communication Plan
+## Communication Plan
 <br>
 
 `Underdevelopment`. Include frequency of communication, way of communication ... etc
