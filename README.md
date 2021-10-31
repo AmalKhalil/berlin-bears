@@ -32,8 +32,7 @@ We hope you enjoyed navigating and reading the project as much as we enjoyed cre
 - Elaborating on the requirements (analysis and diagrams)
 - Establishing measures to evaluate current architecture.
 - Integrating AI-based inference engine
-> Bonus and Optional: <br>
-Scaling up the business (from startup to IPO)
+> Bonus and Optional: Scaling up the business (from startup to IPO)
 # Repository Structure
 
 ```
