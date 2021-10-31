@@ -1,7 +1,11 @@
 # Solution
 ## Solution Overview
 
-.....
+TBA
+
+- Serverless for custom components using API Gateway and Lambda ( Pay per Requests)
+- Cheap Analytics solution using AWS Glue and AWS Athena 
+- Use existing system like AWS Cognito and AWS Dynamo DB for Storage to avoid an addtional operational cost
 
 ## Constrains
 
@@ -85,7 +89,13 @@
 
 ....
 
+### Customer Segmentation
+
+![](diagrams/customer_segmentation.png)
+
 ### Analytics
+
+![](diagrams/analytics.png)
 
 ...
 
@@ -99,9 +109,17 @@
 
 ## Design Decisions 
 
-...
+### Data Storage
 
+Dynamo DB vs RDS
 
+### Customer Segmantion
+
+Scheduled  job vs immediate calculation 
+
+### Custom Modules
+
+Serverless vs Monolithic 
 
 ## Quality Of Service (QoS)
 
