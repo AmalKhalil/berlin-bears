@@ -144,7 +144,7 @@ This diagram describe the cron job flow to calculate customer segment regualry a
 
 This diagram describe how medical test will be filled by customer and integrated with Customer Profile in Dynamo DB.
 
-![img](file:///Users/amakhalil/Documents/GitHub/berlin-bears/diagrams/medical_reports.png?lastModify=1635717343)
+![img](diagrams/medical_reports.png?lastModify=1635717343)
 
 ### Analytics
 
